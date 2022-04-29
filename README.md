@@ -1,4 +1,4 @@
-### Olá!!! Ola Meu nome é Daiane Santos(Nkaia)👋
+### Olá!!! Meu nome é Daiane Santos(Nkaia)👋
  
 - 🔭Estou Trabalhando com Mobile
 - 🌱 Estudando Flutter .& React 
