@@ -24,9 +24,6 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
     <img align="right"  alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/933145098013802537/969698976003657728/picasion.com_d477760400435d7764be39dab7ab113b.gif">
     
-
-    ![Snake animation](https://github.com/Nkaia/Nkaia/blob/output/github-contribution-grid-snake.svg)
-    
   </div>
   
   ##
@@ -34,6 +31,9 @@
   <div>
      <a href="https://discord.gg/S7uBGVdW" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
       <a href = "mailto:daiane.santosux@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    
+    
+    ![Snake animation](https://github.com/Nkaia/Nkaia/blob/output/github-contribution-grid-snake.svg)
     
     <div>
     
