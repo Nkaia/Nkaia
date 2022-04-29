@@ -7,7 +7,7 @@
 
 <div align="center">
   <a href="https://github.com/Nkaia">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api?username=Nkaia&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+  <img width="44%" src="https://github-readme-stats.vercel.app/api?username=Nkaia&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
   <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nkaia&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
 <div style="display: inline_block"><br>
