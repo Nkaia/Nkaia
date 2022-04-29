@@ -25,6 +25,8 @@
     <img align="right"  alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/933145098013802537/969698976003657728/picasion.com_d477760400435d7764be39dab7ab113b.gif">
     
 
+    ![Snake animation](https://github.com/Nkaia/Nkaia/blob/output/github-contribution-grid-snake.svg)
+    
   </div>
   
   ##
