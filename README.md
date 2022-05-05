@@ -10,6 +10,7 @@
   <img width="44%" src="https://github-readme-stats.vercel.app/api?username=Nkaia&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
   <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nkaia&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
+ 🧑‍💻 Hard Skills
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
   <img align="center" alt="Rafa-r" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
