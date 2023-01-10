@@ -1,7 +1,7 @@
 ### Olá!!! Meu nome é Daiane Santos.Adoro MMORPG =>(Nkaia)👋
  
-- 🔭Estou Trabalhando com Mobile
-- 🌱 Estudando Flutter .& React 
+- 🔭
+- 🌱 Estudando Flutter & Ux Design/UI 
 - 📫 Contate-me: daiane.santosux@gmail.com
 - 😄 Ela/Dela
 
